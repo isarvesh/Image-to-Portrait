@@ -21,7 +21,7 @@ input::before {
   position: absolute;
   left: 50%;
   transform: translatex(-50%);
-  bottom: 14px;
+  bottom: 15px;
   content: "Select Image";
   display: inline-block;
   color: #ff8882;
